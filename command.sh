@@ -20,3 +20,4 @@ git push -u origin update_logo
 gh pr create --title "Updated logo and link to Propeller Aero" --body "Updates the app logo and link to Propeller Aero"
 #8 Merging pull request via GitHub CLI
 gh pr merge --merge --delete-branch
+# REPO_URL https://github.com/zibza7723-droid/thabisos-app
